@@ -1118,7 +1118,9 @@ html, body {
   box-shadow: none;
 }
 
-
+.place1 {
+  margin-bottom: 5%;
+}
               /* тут стили которые я добавил еще кончаются */
 
 img.pageImg{
